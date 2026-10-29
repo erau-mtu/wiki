@@ -1,0 +1,65 @@
+<!--
+title: Andmekeskus
+description: erau-datacenter
+published: true
+date: 2026-10-09T12:46:25.270Z
+tags: 
+editor: ckeditor
+dateCreated: 2026-08-31T09:24:02.016Z
+-->
+
+<h1>ERAÜ andmekeskus</h1>
+<p>ERAÜ raadiosisdevõrkude toimkonna käsutuses on kaasaegne füüsiline riistvara. 10Gb/s 44Net võrk.</p>
+<p>&nbsp;</p>
+<h2>Privaatserver ehk VPS teenus</h2>
+<p>ERAÜ raadiosidevõrkude toimkond pakub võimalusel kvalifitseeritud raadioamatööridele kes on sealhulgas ka ERAÜ liikmed, privaatserveri majutusteenust.&nbsp;</p>
+<p>Tegemist on heaoluteenusega mis annab kaasaegsele raadioamatöörile võimekuse ühendada raadiolained digitaalmaailmaga.&nbsp;</p>
+<p><strong>NB! ERAÜ privaatserveri taotlemiseks pöördu help@erau.ee poole!</strong></p>
+<p>&nbsp;</p>
+<h2>Avalikud teenused</h2>
+<p>ERAÜ majutuspind sai ehitatud selleks, et vajalikud teenused oleks majutatud Eestis kohapeal ja mitte kolmanda osapoole käes. ERAÜ plaanib majutada raadioamatööridele vajalikke digiteenuseid just oma majutuspinnal.</p>
+<p>Näited hetkel majutatud avalikest teenustest on:</p>
+<ul>
+  <li>Eksami test piletisüsteem: ticket.eru.ee</li>
+  <li>NTP Ajaserver ehk täpne kellaaeg: ntp.erau.ee</li>
+  <li>LDAP kataloogiteenus klubidele (üle tunneli): erau.local</li>
+  <li>Monitooringuplatvormi teenus (Zabbix, LibreNMS), et silm peal hoida vahendusjaamadel ja muul taristul</li>
+  <li>Arvutivõrguteenus vahendusjaamadele kasutades 44net BGP direct announce liidestust.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>44NET</h2>
+<p>44net (ehk AMPRNet, "Amateur Packet Radio Network") on ülemaailmne, avalikult ruuditav IP-aadresside plokk, mis on 1980ndatel eraldatud litsentseeritud raadioamatööridele kogu maailmas. Tegu on eraldiseisva "internetiga internetis" – kõik selle võrgu seadmed kannavad IP-aadresse, mis algavad numbriga 44 (44.0.0.0/8 vahemikus). <a href="https://www.ardc.net/about/">Ardc</a><a href="https://en.wikipedia.org/wiki/AMPRNet">Wikipedia</a></p>
+<p><br>Võrku haldab organisatsioon nimega ARDC (Amateur Radio Digital Communications). Algselt eraldati see 16,7 miljoni IP-aadressiga /8 võrgublokk Hank Magnuskile (kutsung KA6M) litsentseeritud raadioamatööride kasutamiseks; tänaseks hõlmab see enam kui 12 miljonit IP-aadressi.</p>
+<p>ERAÜ koostöös TechnoTLN ja EENetiga on saanud ARDC käest 44.30.195.0/24 avaliku IP vahemiku TechnoTLN kesklinna linnakus kasutamiseks.</p>
+<pre><code class="language-plaintext">root@es1krm-ct01:/# speedtest -s 2610
+
+   Speedtest by Ookla
+
+      Server: Elisa - Tallinn (id: 2610)
+         ISP: Amateur Radio Digital Communications
+Idle Latency:     1.10 ms   (jitter: 0.05ms, low: 0.93ms, high: 1.13ms)
+    Download:  8947.91 Mbps (data used: 4.3 GB)                                                   
+                  1.59 ms   (jitter: 5.58ms, low: 1.28ms, high: 208.90ms)
+      Upload:  7854.83 Mbps (data used: 9.4 GB)                                                   
+                  1.22 ms   (jitter: 0.19ms, low: 0.87ms, high: 1.73ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/4146fa54-5411-4f53-97ed-d969cb212a65
+root@es1krm-ct01:/# speedtest -s 17372 
+
+   Speedtest by Ookla
+
+      Server: Telia Eesti AS - Tallinn (id: 17372)
+         ISP: Amateur Radio Digital Communications
+Idle Latency:     0.86 ms   (jitter: 0.06ms, low: 0.80ms, high: 0.92ms)
+    Download:  8951.33 Mbps (data used: 4.0 GB)                                                   
+                  7.92 ms   (jitter: 1.49ms, low: 0.92ms, high: 11.69ms)
+      Upload:  7623.51 Mbps (data used: 7.3 GB)                                                   
+                  1.27 ms   (jitter: 0.20ms, low: 0.92ms, high: 1.88ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/9b93e6df-d23b-4fe2-9aef-f3c703f77469
+root@es1krm-ct01:/# </code></pre>
+<p>&nbsp;</p>
+<h2>Kasutusel olev riistvara</h2>
+<p>Kasutuses on K-Space poolt annetatud HPE blade platvormil serveririistvara.</p>
+<figure class="image image_resized" style="width:20.24%;"><img src="/k-space_logotype_boxy_black.svg"></figure>
+<p>&nbsp;</p>
