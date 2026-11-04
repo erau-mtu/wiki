@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-04T16:10:55.433Z
+date: 2026-11-04T16:13:01.770Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -16,7 +16,7 @@ Esmane repiiteri seadistus tuleb teha üle USB kasutades ühte järgnevast:
 * [config.meshcore.io](https://config.meshcore.io) (vali *Console*)
 * [meshcore-cli](https://github.com/meshcore-dev/meshcore-cli)
 
-Repiiterit saab seadistada ka MeshCore rakenduse kaudu. Minimaalselt tuleb selleks repiiteris seadistada administraatori parool või lisada oma *companion*i avalik võti (*Public Key*) pääsunimekirja (*Access Control*).
+Repiiterit saab seadistada ka *companion*i kaudu (MeshCore rakenduses *Log In*). Selleks tuleb tuleb repiiteris seadistada administraatori parool või lisada oma *companion*i avalik võti (*Public Key*) pääsunimekirja (*Access Control*).
 
 Näituseks käsuread mille ükshaaval sisestamisel võiksid saada hästi käituva repiiteri:
 
