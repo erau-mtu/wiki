@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-04T12:49:43.139Z
+date: 2026-11-04T12:49:55.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -21,7 +21,7 @@ Repiiterit saab seadistada ka MeshCore rakenduse kaudu. Minimaalselt tuleb selle
 Näituseks käsuread mille ükshaaval sisestamisel võiksid saada hästi käituva repiiteri:
 
 ```
-setperm S1NUPRIV44TV6TI 3
+setperm S1NU4V4L1KV6TI 3
 
 set name Endla 10A
 set lat 59.429584
