@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-04T12:49:55.625Z
+date: 2026-11-04T14:19:03.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -22,6 +22,7 @@ Näituseks käsuread mille ükshaaval sisestamisel võiksid saada hästi käituv
 
 ```
 setperm S1NU4V4L1KV6TI 3
+set owner.info sina@example.com
 
 set name Endla 10A
 set lat 59.429584
