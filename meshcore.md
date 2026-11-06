@@ -2,7 +2,7 @@
 title: MeshCore
 description: 
 published: true
-date: 2026-10-27T21:37:17.204Z
+date: 2026-11-06T09:50:16.629Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-09T08:48:13.457Z
@@ -38,7 +38,7 @@ Soovituslikud võrguparameetrid:
 
 | Nimi | Soovituslik skoop | Kasutus |
 |-|-|-|
-| Public | * | Globaalne kanal, DX ja rahvaste sõprus |
+| Public | * | Rahvusvaheline piirideülene kanal, DX ja rahvaste sõprus |
 | #estonia | ee | Eestist ja eestlastele |
 | #tallinn | tallinn | Pealinna rahvas |
 | #tartu | tartu | Head mõtted Emajõe Ateenast |
