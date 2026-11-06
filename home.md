@@ -2,7 +2,7 @@
 title: Avaleht
 description: 
 published: true
-date: 2026-11-06T15:41:21.807Z
+date: 2026-11-06T16:02:11.127Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-31T08:24:15.677Z
@@ -22,3 +22,5 @@ Palun anna endast toimetusele teada enne või pärast wikiga liitumist, et saaks
 
 ERAÜ wiki toimetus
 wiki [ät] erau [punkt] ee
+
+**PS** Vaata ka [Raadiosidehuviliste Discordi](https://discord.gg/Z9u5QcDTfZ) ;)
