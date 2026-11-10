@@ -2,7 +2,7 @@
 title: MeshCore
 description: 
 published: true
-date: 2026-11-06T09:50:16.629Z
+date: 2026-11-10T20:27:47.822Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-09T08:48:13.457Z
@@ -50,5 +50,4 @@ Soovituslikud võrguparameetrid:
 
 * [Raadiosidehuvilised Discordis](https://discord.gg/Z9u5QcDTfZ)
 * [MeshCore 2026 kokkuvõte](/et/meshcore/2026-kokkuvote)
-* [EstMesh MeshCore jutud](https://wiki.estmesh.ee/en/docs/meshcore)
 * [K-Space MeshCore jutud](https://wiki.k-space.ee/en/projects/radio/MeshCore)
