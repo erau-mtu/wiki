@@ -2,7 +2,7 @@
 title: MeshCore
 description: 
 published: true
-date: 2026-11-10T20:27:47.822Z
+date: 2026-11-10T20:30:56.395Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-09T08:48:13.457Z
@@ -18,7 +18,7 @@ Navigeeri: [MeshCore](/et/meshcore) | [Riistvara](/et/meshcore/riistvara) | [Tar
 - [ES5NHC võrguanalüsaator](https://corescope.es5nhc.ee)
 - [ES5KVLT võrguanalüsaator](https://litescope.kvlt.ee) ja [*Tropoparty* agregaator](https://tropoparty.kvlt.ee)
 
-Teiste riikide vaated: [🇱🇻](https://meshlog.anrijs.lv) [🇱🇹](https://meshcore.atvirastinklas.lt) [🇵🇱](https://litescope.riko.dev) [🇫🇮](https://corescope.meshcore.fi) [🇸🇪](https://meshcore.meshat.se) [🇩🇰](http://meshview.dk)
+Teiste riikide vaated: [🇱🇻](https://meshlog.anrijs.lv) [🇱🇹](https://meshcore.atvirastinklas.lt) [🇵🇱](https://litescope.riko.dev) [🇫🇮](https://corescope.meshcore.fi) [🇸🇪](https://meshcore.meshat.se) [🇩🇰](http://meshview.dk) [🇳🇴](http://corescope.eth0.no)
 
 # *Companion*i seadistamine
 
