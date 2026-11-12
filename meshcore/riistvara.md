@@ -2,7 +2,7 @@
 title: MeshCore riistvara
 description: 
 published: true
-date: 2026-10-28T08:26:45.207Z
+date: 2026-11-12T10:20:18.979Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T11:12:53.025Z
@@ -40,6 +40,12 @@ Tugeva korpusega (aga mitte veekindel) nRF *companion* sinihambaga kasutamiseks.
 * [Tootja koduleht](https://store.rakwireless.com/products/wismesh-pocket)
 * [MeshCore Ninja](https://meshcore.ninja/device/rak-wismesh-pocket-v2/)
 * [Hollandi Hexaspot](https://hexaspot.com/products/wismesh-pocket-v2-ready-to-use-meshtastic-device)
+
+### Heltec Mesh Node T1
+
+Väike ja tubli ning tolmu- ja niiskuskindel. Nupud on raskesti vajutatavad, aga kui piisavalt palju pressida, siis lähevad veidi pehmemaks. Antenn on nõrk, seega sobib kasutamiseks piirkonnas kus repiiterid ei asu kaugel. Hibernatsioonis kestab aku mitu kuud, tavakasutuses nädala või rohkem (katsetused käivad :)). Hea seade testimaks reaalseid leviolusid, sest tegemist on just sellise formaadiga mida tavainimene või laps koolikotis endaga kaasas kannaks.
+
+* [Tootja koduleht](https://heltec.org/project/mesh-node-t1/)
 
 ## Repiiterid
 
