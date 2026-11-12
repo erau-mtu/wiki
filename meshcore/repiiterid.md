@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-12T10:24:54.070Z
+date: 2026-11-12T10:26:21.720Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -14,7 +14,7 @@ MeshCore võrk toetub vabatahtlike paigaldatud autonoomsetele repiiteritele. Olu
 
 # Seadistamine
 
-Alustame seadistamisest, sest eeldame, et oled juba midagi [kokku ladunud](/et/meshcore/riistvara) ja tahad õiged parameetrid sisse sööta.
+Alustame seadistamisest, sest eeldame, et oled kiiruga juba midagi [kokku ladunud](/et/meshcore/riistvara) ja tahad õiged parameetrid sisse sööta.
 
 Esmane repiiteri seadistus tuleb teha üle USB kasutades ühte järgnevast:
 * [config.meshcore.io](https://config.meshcore.io) (vali *Console*)
