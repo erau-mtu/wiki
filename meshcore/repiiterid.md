@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-12T09:50:09.598Z
+date: 2026-11-12T09:58:59.245Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -10,13 +10,17 @@ dateCreated: 2026-10-11T09:38:46.676Z
 
 Navigeeri: [MeshCore](/et/meshcore) | [Riistvara](/et/meshcore/riistvara) | [Tarkvara](/et/meshcore/tarkvara) | [Repiiterid](/et/meshcore/repiiterid)
 
+MeshCore võrk toetub vabatahtlike paigaldatud autonoomsetele repiiteritele. Oluline märksõna siin on **autonoomsus**, sest ilma selleta ei ole *mesh*-tüüpi võrku üldse mõtet ehitada. Repiiteri asukoha valikul ja paigaldamisel tuleb silmas pidada paljusid nüansse, kuid kõige olulisemad on kõrgus ja korrektne antenni paigutus. Sellest ja teistest olulisematest detailidest repiiteri ehitamise, paigaldamise, seadistamise ja hooldamise ümber käesolevas tükis.
+
 # Seadistamine
+
+Alustame seadistamisest, sest eeldame, et oled juba midagi [kokku ladunud](/et/meshcore/riistvara) ja tahad õiged parameetrid sisse sööta.
 
 Esmane repiiteri seadistus tuleb teha üle USB kasutades ühte järgnevast:
 * [config.meshcore.io](https://config.meshcore.io) (vali *Console*)
 * [meshcore-cli](https://github.com/meshcore-dev/meshcore-cli)
 
-Repiiterit saab seadistada ka *companion*i kaudu (MeshCore rakenduses *Log In*). Selleks tuleb tuleb repiiteris seadistada administraatori parool või lisada oma *companion*i avalik võti (*Public Key*) pääsunimekirja (*Access Control*).
+Repiiterit saab seadistada ka *companion*i kaudu (MeshCore rakenduses *Log In*). Selleks tuleb repiiteris seadistada administraatori parool või lisada oma *companion*i avalik võti (*Public Key*) pääsunimekirja (*Access Control*).
 
 Näituseks käsuread mille ükshaaval sisestamisel võiksid saada hästi käituva repiiteri:
 
