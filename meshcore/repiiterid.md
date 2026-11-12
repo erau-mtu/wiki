@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-12T09:58:59.245Z
+date: 2026-11-12T10:24:54.070Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -10,7 +10,7 @@ dateCreated: 2026-10-11T09:38:46.676Z
 
 Navigeeri: [MeshCore](/et/meshcore) | [Riistvara](/et/meshcore/riistvara) | [Tarkvara](/et/meshcore/tarkvara) | [Repiiterid](/et/meshcore/repiiterid)
 
-MeshCore võrk toetub vabatahtlike paigaldatud autonoomsetele repiiteritele. Oluline märksõna siin on **autonoomsus**, sest ilma selleta ei ole *mesh*-tüüpi võrku üldse mõtet ehitada. Repiiteri asukoha valikul ja paigaldamisel tuleb silmas pidada paljusid nüansse, kuid kõige olulisemad on kõrgus ja korrektne antenni paigutus. Sellest ja teistest olulisematest detailidest repiiteri ehitamise, paigaldamise, seadistamise ja hooldamise ümber käesolevas tükis.
+MeshCore võrk toetub vabatahtlike paigaldatud autonoomsetele repiiteritele. Oluline märksõna on **autonoomsus**, sest ilma selleta ei ole *mesh*-tüüpi võrku üldse mõtet ehitada. Repiiteri asukoha valikul ja paigaldamisel tuleb silmas pidada paljusid nüansse, kuid kõige olulisemad on kõrgus ja korrektne antenni paigutus. Sellest ja teistest olulisematest detailidest repiiteri seadistamise, paigaldamise, ehitamise ja hooldamise ümber käesolevas tükis.
 
 # Seadistamine
 
