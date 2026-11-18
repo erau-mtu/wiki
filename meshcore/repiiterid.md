@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-12T10:26:21.720Z
+date: 2026-11-18T11:57:33.915Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -32,7 +32,7 @@ set name Endla 10A
 set lat 59.429584
 set lon 24.733158
 
-set radio 869.6179809,62.5,8,5
+set radio 869.618,62.5,8,5
 set tx 22
 set dutycycle 10
 
