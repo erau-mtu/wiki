@@ -2,7 +2,7 @@
 title: MeshCore repiiterid
 description: 
 published: true
-date: 2026-11-18T11:57:33.915Z
+date: 2026-11-18T11:59:58.593Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T09:38:46.676Z
@@ -47,6 +47,7 @@ region put tallinn
 region save
 
 clock sync
+powersaving on
 ```
 
 ## Pane tähele
