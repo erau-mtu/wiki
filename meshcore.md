@@ -2,13 +2,12 @@
 title: MeshCore
 description: 
 published: true
-date: 2026-11-20T08:23:01.047Z
+date: 2026-11-21T11:15:12.620Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-09T08:48:13.457Z
 ---
 
-📢 20. november: [Tartu(maa) MeshCore Kohting](https://hakkerikoda.ee/et/event/tartu-meshcore-kohting/) @ Häkkerikoda
 📢 26. november: [MeshCore meetup (open-doors)](https://wiki.k-space.ee/en/events/chaostreffs) @ K-SPACE
 
 ---
