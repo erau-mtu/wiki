@@ -2,7 +2,7 @@
 title: MeshCore riistvara
 description: 
 published: true
-date: 2026-11-12T10:21:59.680Z
+date: 2026-11-26T15:43:36.199Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T11:12:53.025Z
@@ -18,7 +18,7 @@ Tuntumad nimed on [Elecrow](https://www.elecrow.com), [Heltec](http://heltec.org
 
 # Valmislahendused
 
-Valik on turul kirju. Suurte akudega, väikeste akudega. Ekraaniga ja ekraanita. Tehases kaasa pandud antennid kipuvad aga kõigil enamasti kehvad olema.
+Valik on turul kirju. Suurte akudega, väikeste akudega. Ekraaniga ja ekraanita. Tehases kaasa pandud (välised) antennid kipuvad enamasti kehvad olema ja eelpaigaldatud [tarkvaraks](/et/meshcore/tarkvara) on tihti hoopis *Meshtastic*, mis ei ole *MeshCore*ga ühilduv.
 
 ## *Companion*id
 
@@ -43,13 +43,13 @@ Tugeva korpusega (aga mitte veekindel) nRF *companion* sinihambaga kasutamiseks.
 
 ### Heltec Mesh Node T1
 
-Väike ja tubli ning tolmu- ja niiskuskindel nRF *companion* sinihambaga kasutamiseks. Nupud on raskesti vajutatavad, aga kui piisavalt palju pressida, siis lähevad veidi pehmemaks. Antenn on nõrk, seega sobib kasutamiseks piirkonnas kus repiiterid ei asu kaugel. Hibernatsioonis kestab aku mitu kuud, tavakasutuses nädala või rohkem (katsetused käivad :)). Hea seade testimaks reaalseid leviolusid, sest tegemist on just sellise formaadiga mida tavainimene või laps koolikotis endaga kaasas kannaks.
+Väike ja tubli ning tolmu- ja niiskuskindel (IP65) nRF *companion* sinihambaga kasutamiseks. Nupud on raskesti vajutatavad, kuid pika peale lähevad veidi pehmemaks. Antenn on nõrk, seega sobib kasutamiseks piirkonnas kus repiiterid ei asu kaugel. Aku kestus kuni nädal. Hea seade testimaks reaalseid leviolusid, sest tegemist on just sellise formaadiga mida tavainimene või laps koolikotis kaasas kannaks.
 
 * [Tootja koduleht](https://heltec.org/project/mesh-node-t1/)
 
 ### SenseCAP Card Tracker T1000-E
 
-Krediitkaardi suurune veekindel (IP65) õhuke (6,5 mm) GPSiga ilma ekraanita seade, mida on mugav taskus kanda. 700 mAh aku peab ilma GPSita vastu mitu päeva. Laadimiseks on vaja spetsiaalset kaablit. Sisseehitatud väike antenn pole väga võimekas aga lähedal asuva repiiteri levialas töötab kenasti. Tehasest tuleb see Meshtaticu tarkvaraga, mis tuleb välja vahetada.
+Krediitkaardi suurune veekindel (IP65) õhuke (6,5 mm) GPSiga ilma ekraanita seade, mida on mugav taskus kanda. 700 mAh aku peab ilma GPSita vastu mitu päeva. Laadimiseks on vaja spetsiaalset kaablit. Sisseehitatud väike antenn pole väga võimekas, aga lähedal asuva repiiteri levialas töötab kenasti.
 
 * [Tootja koduleht](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html)
 
@@ -59,7 +59,11 @@ Repiiterite valmislahendused ei ole tegelikult päris valmis, vaid vajavad tihti
 
 ### Seeed Studio SenseCAP Solar Node P1
 
-Populaarne kompaktne repiiter. Saadaval ka kallim *pro* versioon, mis tuleb akudega ja GPSiga. GPS aga sööb rohkem akut ja väga täpne kellaaeg pole repiiteril oluline (GPSi saab tarkvaraliselt välja lülitada). Akud leiab kohalikust kaubandusvõrgust. Kaasa pandud antenn sobib vaid katsetamiseks. N-tüüpi antenni saab paigaldada vaheklambri avadesse. Kui metallmast, millele paigaldatakse, jääb antenni kõrvalt jooksma, siis sellel on negatiivne mõju antennile. Soovitav leida viis antenni mastist eemale viimiseks, näiteks tippu. Sobiv kaabel tuleb ise teha või panna adapter, sest korpusel on RP-SMA ühendus ja neid valmiskaableid on keeruline leida. Seeed-i müüdavatel N pistikuga antennidel on 30 cm pikkune RP-SMA kaabel kaasas. Väikese vaevaga saab ka sisemise kaabli vahetada IPEX-SMA vastu  ag tähelepanu tuleb pöörata niiskuskindluse säilitamisele.
+Populaarne kompaktne repiiter. Saadaval ka kallim *pro* versioon, mis tuleb akudega ja GPSiga. GPS aga sööb rohkem akut ja väga täpne kellaaeg pole repiiteril oluline (GPSi saab tarkvaraliselt välja lülitada). Akud leiab kohalikust kaubandusvõrgust. Kaasa pandud antenn sobib vaid katsetamiseks. N-tüüpi antenni saab paigaldada vaheklambri avadesse.
+
+Kui metallmast, millele paigaldatakse, jääb antenni kõrvalt jooksma, siis sellel on negatiivne mõju antennile. Soovitav leida viis antenni mastist eemale viimiseks, näiteks tippu. Sobiv kaabel tuleb ise teha või panna adapter, sest korpusel on RP-SMA ühendus ja neid valmiskaableid on keeruline leida.
+
+Seeed-i müüdavatel N pistikuga antennidel on 30 cm pikkune RP-SMA kaabel kaasas. Väikese vaevaga saab ka sisemise kaabli vahetada IPEX-SMA vastu, aga tähelepanu tuleb pöörata niiskuskindluse säilitamisele.
 
 * [Tootja koduleht](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html)
 
