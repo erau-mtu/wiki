@@ -2,7 +2,7 @@
 title: MeshCore riistvara
 description: 
 published: true
-date: 2026-11-26T15:43:36.199Z
+date: 2026-11-26T15:48:18.290Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T11:12:53.025Z
@@ -102,7 +102,8 @@ Järgnevad antennid on VNAga kontrollitud ja kvalifitseeruvad headeks:
 
 # Kaablid ja ühendused
 
-* [tehnoturg-t](https://www.tehnoturg.ee/) Tallinnas valmistab tellimusel erineva pikkuse ja pistikutega kaableid
+* [tehnoturg-t](https://www.tehnoturg.ee/) valmistab Tallinnas eritellimusel erineva pikkuse ja pistikutega kaableid
+* [WiMo](https://www.wimo.com/en/cable-configurator) Saksamaal teeb ka
 
 # Filtrid
 
