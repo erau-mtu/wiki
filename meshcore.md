@@ -2,14 +2,10 @@
 title: MeshCore
 description: 
 published: true
-date: 2026-11-21T11:15:12.620Z
+date: 2026-11-27T13:13:23.480Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-09T08:48:13.457Z
----
-
-📢 26. november: [MeshCore meetup (open-doors)](https://wiki.k-space.ee/en/events/chaostreffs) @ K-SPACE
-
 ---
 
 Navigeeri: [MeshCore](/et/meshcore) | [Riistvara](/et/meshcore/riistvara) | [Tarkvara](/et/meshcore/tarkvara) | [Repiiterid](/et/meshcore/repiiterid)
